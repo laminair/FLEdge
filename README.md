@@ -1,2 +1,2 @@
 # flbench
-This is an empty project
+Please navigate to branch flbench-paper-v2
