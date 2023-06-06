@@ -1,2 +1,2 @@
-# brofl
-Please navigate to branch bro-paper-v2
+# Empty main branch
+Please navigate to branch submission
